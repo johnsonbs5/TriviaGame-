@@ -1,0 +1,107 @@
+  
+body {
+    background-color: black;
+    background-image: url(http://hdqwalls.com/wallpapers/avengers-infinity-war-2018-4k-cq.jpg);
+  }
+
+ #start-page {
+    color: whitesmoke;
+
+
+ }
+  
+  #end-page {
+    display: none;
+    border: 1px aliceblue;
+  }
+  
+  #main-logo {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    width: 100% \9;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    color: aliceblue;
+  }
+
+  h2 {
+    color: aliceblue;
+
+  }
+
+  h3{
+color: aliceblue;
+border: 5px aliceblue;
+
+  }
+
+  #timer {
+color: aliceblue;
+border: 2px aliceblue;
+
+  }
+  
+  label {
+    font-size: 16px;
+    color: aliceblue;
+  }
+  
+  #end-page p {
+    font-size: 20px;
+    color: aliceblue;
+    /* font-weight: 700; */
+  }
+  
+  #correct-answers {
+    margin-top: 32px;
+    color: aliceblue;
+  }
+  
+  #question {
+    margin-top: 32px;
+    font-size: 20px;
+    font-weight: 500;
+    color: aliceblue;
+  }
+  
+  footer {
+    height: 30px;
+    margin-top: 30px;
+    color: aliceblue;
+  }
+  
+  
+  #timer {
+    margin-top: 20px;
+  }
+  
+  #done-button {
+    margin-top: 20px;
+  }
+
+  .col-md-8 {
+
+    background-color: black;
+    opacity: .75;
+    text-align: center;
+  }
+
+  .col-md-3 {
+    size: 250px;
+
+
+  }
+
+  .col-md-12 {
+    justify-content: right;
+    text-align: center;
+
+  }
+
+  #idTag {
+    background-color: black;
+    opacity: .75;
+
+  }
